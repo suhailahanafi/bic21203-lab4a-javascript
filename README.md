@@ -36,7 +36,8 @@ Question 1 – Interactive Text Changer
 ![Q1 Output](screenshots/q1.png)
 
 Question 2 – Smart Number Validator
-Test 1: Number lower than 10
+
+Test 1: Number higher than 10
 
 ![Q2 Test 1](screenshots/q2%281%29.png)
 
