@@ -32,6 +32,7 @@ Student Information
 Screenshots
 
 Question 1 – Interactive Text Changer
+
 ![Q1 Output](screenshots/q1.png)
 
 Question 2 – Smart Number Validator
@@ -44,5 +45,6 @@ Test 2: Invalid input
 ![Q2 Test 2](screenshots/q2%282%29.png)
 
 Question 3 – Dynamic Number Generator
+
 ![Q3 Output](screenshots/q3.png)
 
