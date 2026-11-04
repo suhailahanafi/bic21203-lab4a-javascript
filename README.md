@@ -29,18 +29,20 @@ Student Information
 
 
 
-## Screenshots
+Screenshots
 
-### Question 1 – Interactive Text Changer
+Question 1 – Interactive Text Changer
 ![Q1 Output](screenshots/q1.png)
 
-### Question 2 – Smart Number Validator
-**Test 1: Number lower than 10**
+Question 2 – Smart Number Validator
+Test 1: Number lower than 10
+
 ![Q2 Test 1](screenshots/q2%281%29.png)
 
-**Test 2: Invalid input**
+Test 2: Invalid input
+
 ![Q2 Test 2](screenshots/q2%282%29.png)
 
-### Question 3 – Dynamic Number Generator
+Question 3 – Dynamic Number Generator
 ![Q3 Output](screenshots/q3.png)
 
